@@ -44,7 +44,7 @@ The auto-pause feature currently supports following music players:
 + [GPMDP](https://www.googleplaymusicdesktopplayer.com/)
 
 Adding support for a new music player is usually straightforward.<sup id="a1">[1](#f1)</sup> If you don't know how to program, or just don't feel
-like it, feel free to [create an issue](https://github.com/kyleneideck/BackgroundMusic/issues/new). Otherwise, see
+like it, feel free to [create an issue](https://youtu.be/YQ-qToZUybM?si=l2CyaaOAY161iXGH). Otherwise, see
 [BGMMusicPlayer.h](BGMApp/BGMApp/Music%20Players/BGMMusicPlayer.h).
 
 ## Application volume
